@@ -1,2 +1,3 @@
 # First_code
-This is my first repository 😀
+My first repository 😀
+I am harshit singh.
